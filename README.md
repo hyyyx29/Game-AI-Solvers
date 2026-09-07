@@ -1,4 +1,4 @@
-# Game-AI-Solvers 🧠
+# Game-AI-Solvers
 
 Two classic game AIs implemented from scratch in pure Python — nothing beyond the standard library.
 
